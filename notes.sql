@@ -66,7 +66,7 @@ CREATE TABLE `users` (
 INSERT INTO `users` (`user_id`, `user_name`, `password`, `name`) VALUES
 (3, 'ela', '202cb962ac59075b964b07152d234b70', 'Ela'),
 (4, 'elias', '202cb962ac59075b964b07152d234b70', 'elias'),
-(5, 'yawa', '202cb962ac59075b964b07152d234b70', 'Christian Samonte');
+(5, 'chan', '202cb962ac59075b964b07152d234b70', 'Christian Samonte');
 
 --
 -- Indexes for dumped tables
